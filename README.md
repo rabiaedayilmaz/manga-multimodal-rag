@@ -18,7 +18,7 @@
 
 ```bash
 git clone https://github.com/<your-username>/manga-rag.git
-cd manga-rag
+cd manga-multimodal-rag
 pip install -r requirements.txt
 ```
 
