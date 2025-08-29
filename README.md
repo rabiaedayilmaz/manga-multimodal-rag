@@ -81,7 +81,7 @@ streamlit run app.py
 | Retriever | `naver-clova-ix/dse-vidore` |
 | Reranker  | `colbert-ir/colbertv2.0`    |
 | VLM (QA)  | `openbmb/MiniCPM-V-4`       |
-
+| Patching  |  `openai/clip-vit-base-patch16`|
 
 For .env set:
 
